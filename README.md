@@ -1,4 +1,4 @@
-## Hi there, I'm Varad👋
+## Hej Hej! Its Varad👋
 
 - I’m currently a Computer Engineering student in St. Francis Institute of Technology.I am passionate about using Django and REST API, to integrate it with Frontend Frameworks to create awesome user experiences.
 - Ask me about Python, DSA and Web Development
