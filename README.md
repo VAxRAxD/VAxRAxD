@@ -1,7 +1,7 @@
 <h1 align="center">Hej Hej! Its Varad👋</h1>
 
 <div class= "container">
-<img align="Right" src="https://user-images.githubusercontent.com/38029772/143664484-824a3a01-8652-46e2-8c26-3758f0f64e51.png" style="height: 220px;">
+<img align="Right" src="https://user-images.githubusercontent.com/38029772/143664484-824a3a01-8652-46e2-8c26-3758f0f64e51.png" style="height: 210px;">
 <br><br><br>  
 
 - 👀 I’m a Programming Enthusiast
