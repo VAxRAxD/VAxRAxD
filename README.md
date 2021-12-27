@@ -2,13 +2,15 @@
 
 <div class= "container">
 <img align="Right" src="https://user-images.githubusercontent.com/38029772/143664484-824a3a01-8652-46e2-8c26-3758f0f64e51.png" style="height: 210px;">
-<br><br><br>
+<br><br>
 
-- 👀 I’m a Programming Enthusiast
+- 👀 I’m a Python Enthusiast
 
 - 🎓 Computer Engineering undergraduate at St. Francis Institute of Technology
 
 - 👨‍💻 Full-Stack Web Development & Software Testing
+  
+- 💬 Passionate about programming and being better than yesterday
 
 </div>
 
