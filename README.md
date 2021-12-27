@@ -11,7 +11,7 @@
 - 👨‍💻 Full-Stack Web Development & Software Testing
   
 - 💬 Passionate about programming and being better than yesterday
-<br>
+
 </div>
 
 #
