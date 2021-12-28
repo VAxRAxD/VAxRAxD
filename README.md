@@ -6,7 +6,7 @@
 
 - 👀 I’m a Python Enthusiast
 
-- 🎓 Computer Engineering undergraduate at St. Francis Institute of Technology
+- 🎓 Bachelor of Engineering in Computer Engineering, <b>University of Mumbai</b>
 
 - 👨‍💻 Full-Stack Web Development & Software Testing
   
