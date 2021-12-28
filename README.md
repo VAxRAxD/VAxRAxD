@@ -4,7 +4,7 @@
 <img align="Right" src="https://user-images.githubusercontent.com/38029772/143664484-824a3a01-8652-46e2-8c26-3758f0f64e51.png" style="height: 210px;">
 <br>
 
-- 👀 I’m a Python Enthusiast
+- 🧠 I’m a Python Enthusiast
 
 - 🎓 Bachelor of Engineering in Computer Engineering, <b>University of Mumbai</b>
 
