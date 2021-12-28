@@ -10,7 +10,7 @@
 
 - 👨‍💻 Full-Stack Web Development & Software Testing
   
-- 💬 Passionate about programming and being better than yesterday
+- 🗣️ Programming isn't about what you know; it's about what you can figure out 
 
 </div>
 
