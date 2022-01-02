@@ -7,7 +7,7 @@
 
 - 🎓 Bachelor of Engineering in Computer Engineering, <b>University of Mumbai</b>
 
-- 👨‍💻 Full-Stack Web Development & Software Testing
+- 👨‍💻 Full-Stack Web Development, Automation & Software Testing
   
 - 🗣️ Programming isn't about what you know; it's about what you can figure out 
 
