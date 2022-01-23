@@ -1,12 +1,12 @@
 
-<h1 > <img align="Center" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/in.svg" width="25">&nbsp;Hej Hej! Its Varad👋 <img src="https://komarev.com/ghpvc/?username=VAxRAxD&label=Views&color=blue&style=plastic" /></h1>
+<h1Hej Hej! Its Varad👋 <img src="https://komarev.com/ghpvc/?username=VAxRAxD&label=Views&color=blue&style=plastic"/></h1>
 <div class= "container">
 <img align="Right" src="https://user-images.githubusercontent.com/38029772/143664484-824a3a01-8652-46e2-8c26-3758f0f64e51.png" style="height: 210px;">
 <br>
 
 - 🧠 I’m a Python Enthusiast
 
-- 🎓 Bachelor of Engineering in Computer Engineering, <b>University of Mumbai</b>
+- 🏫 Bachelor of Engineering in Computer Engineering, <b>University of Mumbai</b>
 
 - 👨‍💻 Web Development, Web Automation & Software Testing
   
