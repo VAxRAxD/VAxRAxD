@@ -5,6 +5,8 @@
 
 - 🧠 I’m a Python Enthusiast
 
+- 🏢 Django Developer Intern @<a href="https://www.codeif.org/">Codeif</a>
+
 - 🏫 Bachelor of Engineering in Computer Engineering, <b>University of Mumbai</b>
 
 - 👨‍💻 Web Development, Web Automation & Software Testing
