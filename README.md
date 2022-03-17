@@ -5,6 +5,8 @@
 
 - 🧠 I’m a Python Enthusiast
 
+- 🏢 Django Developer Intern at <b>Spogo News</b>
+  
 - 🏫 Bachelor of Engineering in Computer Engineering, <b>University of Mumbai</b>
 
 - 👨‍💻 Web Development, Web Automation & Software Testing
