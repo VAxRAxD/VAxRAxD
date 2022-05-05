@@ -7,7 +7,7 @@
   
 - 🏫 Bachelor of Engineering in Computer Engineering, <b>University of Mumbai</b>
 
-- 👨‍💻 Web Development, Web Automation & Software Testing
+- 👨‍💻 Web Development and Web Automation
   
 - 🗣️ Programming isn't about what you know; it's about what you can figure out 
 
