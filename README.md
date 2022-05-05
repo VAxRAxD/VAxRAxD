@@ -4,8 +4,6 @@
 <br>
 
 - 🧠 I’m a Python Enthusiast
-
-- 🏢 Django Developer Intern at <b>Spogonews</b>
   
 - 🏫 Bachelor of Engineering in Computer Engineering, <b>University of Mumbai</b>
 
