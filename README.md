@@ -7,7 +7,7 @@
   
 - 🏫 Bachelor of Engineering in Computer Engineering, <b>University of Mumbai</b>
 
-- 👨‍💻 DEVOPS and API Development
+- 👨‍💻 DEVOPS and Rest API's
   
 - 🗣️ Programming isn't about what you know; it's about what you can figure out 
 
